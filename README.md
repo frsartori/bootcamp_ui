@@ -396,10 +396,6 @@ Commit your practice code.
 
 1, 2, 4.
 
-#####Mobile Test:#####
-
-Test your code in a mobile device or in Android emulator.
-
 #####Commit:#####
 
 Commit your practice code.
