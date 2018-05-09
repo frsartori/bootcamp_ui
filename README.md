@@ -177,7 +177,9 @@ Now that you know which are the three pilars of a web application's UI, it's tim
 
 2. Beginner to advance: [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
 
-3. Recommended: [devdocs.io](http://devdocs.io/) to check Web platform documentation around JavaScript, frameworks, Browser APIs, etc
+3. Optional JS tutorial [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+4. Recommended: [devdocs.io](http://devdocs.io/) to check Web platform documentation around JavaScript, frameworks, Browser APIs, etc
 
 ##### Extra documentation:
 
@@ -241,6 +243,11 @@ In this Topic we will focus on learning how JavaScript approaches Object-Oriente
 2. ECMAScript 6 New Features: [http://es6-features.org/](http://es6-features.org/). You can compare ECMAScript 5 and 6 code.
 
 3. Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes)
+    1. [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+    2. [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+    4. [Template Literals](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Template_literals)
+    3. [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+    4. [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 
 4. Read about [ES6 Modules](https://ponyfoo.com/articles/es6-modules-in-depth)  
 
