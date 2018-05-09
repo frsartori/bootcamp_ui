@@ -1,9 +1,9 @@
 # bootcamp_ui
 
-##The future of Web Applications is here!
-###Are you ready for it?
+## The future of Web Applications is here!
+### Are you ready for it?
 
-####Index
+#### Index
 
 1. [Objective](#objective)
 
